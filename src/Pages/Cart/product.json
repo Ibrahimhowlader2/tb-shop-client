@@ -1,0 +1,219 @@
+[
+    {
+        "key": "1",
+        "category": "Smartphones",
+        "name": "Smartphone",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/KhQh9NY/product-1.jpg",
+        "imgHover": "https://i.ibb.co/vdX2RPf/product-1-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 68.36,
+        "shipping": 7.99
+    },
+    {
+        "key": "2",
+        "category": "Cameras",
+        "name": "Camera",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/kDxP1Qn/product-2.jpg",
+        "imgHover": "https://i.ibb.co/XWRv1sV/product-2-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 330.85,
+        "shipping": 7.99
+    },
+    {
+        "key": "3",
+        "category": "Televisions",
+        "name": "Television",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 4,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/g7W1fT2/product-3.jpg",
+        "imgHover": "https://i.ibb.co/jrFCbBZ/product-3-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 210,
+        "shipping": 7.99
+    },
+    {
+        "key": "4",
+        "category": "Speakers",
+        "name": "Speaker",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/stkvCDV/product-4.jpg",
+        "imgHover": "https://i.ibb.co/swQz89D/product-4-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 50.5,
+        "shipping": 7.99
+    },
+    {
+        "key": "5",
+        "category": "Speakers",
+        "name": "Speaker Tb",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/ccN2YPX/product-5.jpg",
+        "imgHover": "https://i.ibb.co/7pY1htN/product-5-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 60.85,
+        "shipping": 7.99
+    },
+    {
+        "key": "6",
+        "category": "Smartwatches",
+        "name": "Smartwatch",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/jJhRC9r/product-6.jpg",
+        "imgHover": "https://i.ibb.co/mBFdz4r/product-6-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 80,
+        "shipping": 7.99
+    },
+    {
+        "key": "7",
+        "category": "Headphones",
+        "name": "Headphone",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/jTJkGZj/product-7.jpg",
+        "imgHover": "https://i.ibb.co/CsPW96d/product-7-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 30.20,
+        "shipping": 7.99
+    },
+    {
+        "key": "8",
+        "category": "Smartphones",
+        "name": "Smartphone Tb",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/2Wc5bk1/product-8.jpg",
+        "imgHover": "https://i.ibb.co/JH7bcZQ/product-8-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 110,
+        "shipping": 7.99
+    },
+    {
+        "key": "9",
+        "category": "Cameras",
+        "name": "Web Camera",
+        "seller": "3M",
+        "wholePrice": "100",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 5,
+        "starCount": 3245,
+        "img": "https://i.ibb.co/L0dg5TF/product-9.jpg",
+        "imgHover": "https://i.ibb.co/X2FChYk/product-9-hover.jpg",
+        "features": [{
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 160,
+        "shipping": 7.99
+    }
+
+]
